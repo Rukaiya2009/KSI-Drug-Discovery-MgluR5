@@ -1,2 +1,2 @@
 ,Descriptor,Statistics,p,alpha,Interpretation
-0,NumHAcceptors,253355.5,0.09313917598014336,0.05,Same distribution (fail to reject H0)
+0,NumHAcceptors,,,0.05,Different distribution (reject H0)
